@@ -1,0 +1,12 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  /* หรือกำหนดแบบอักษรสำหรับส่วนต่างๆ เฉพาะ */
+  .topnav a {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  footer p {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
